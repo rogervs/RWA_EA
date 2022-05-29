@@ -37,3 +37,6 @@ Seems to work fine. I've seen there's options to run clusters of these. I'd like
 These seem fine:
 . [Dino](https://dino.im/)
 . [Gajim](https://gajim.org/)
+
+## Hackathon Entry
+https://devpost.com/software/real-world-auditor
