@@ -14,7 +14,9 @@ This is the external adapter/bot that talks to the chainlink node, either receiv
 The contracts are here https://github.com/rogervs/RWA_contracts
 
 ## System Overview
-[Sequence Diagram](images/RWA Sequence Diagram_v1.jpeg)
+[Sequence Diagram]()
+![Sequence Diagram](iages/RWA Sequence Diagram_v1.jpeg "System Sequence Diagram")
+
 
 
 ## Install
