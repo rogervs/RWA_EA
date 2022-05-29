@@ -15,7 +15,7 @@ The contracts are here https://github.com/rogervs/RWA_contracts
 
 ## System Overview
 [Sequence Diagram]()
-![Sequence Diagram](iages/RWA Sequence Diagram_v1.jpeg "System Sequence Diagram")
+![Sequence Diagram](./images/RWA Sequence Diagram_v1.jpeg)
 
 
 
