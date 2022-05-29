@@ -13,6 +13,10 @@ This is the external adapter/bot that talks to the chainlink node, either receiv
 ## Contracts
 The contracts are here https://github.com/rogervs/RWA_contracts
 
+## System Overview
+[Sequence Diagram](images/RWA Sequence Diagram_v1.jpeg)
+
+
 ## Install
 1. Create a python virtual environment using something like `pyenv-virtualenv`
 2. Install dependencies. `pip install -r requirements.txt`
