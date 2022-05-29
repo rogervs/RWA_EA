@@ -1,4 +1,4 @@
-# Real Word Assessor
+# Real Word Auditor
 
 A tool to coordinate and incentivise a set of independent actors to assess a set of independent criteria, using Chain link and XMPP to link block chain payment rails to real world activity.
 Actors are assigned randomly to various criterion, with each criterion having at least three actors assessing it.
