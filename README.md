@@ -23,3 +23,6 @@ The contracts are here https://github.com/rogervs/RWA_contracts
 ## Tips
 TCPFlow is a program that shows you the TCP stream going in and out of a port.
 `sudo tcpflow -c -i lo port 8080`
+
+## On-chain Version
+A proof of concept on-chain version was written first in Solidity. It can be found in the `rwa_poc_sol` directory.
