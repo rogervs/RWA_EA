@@ -26,3 +26,14 @@ TCPFlow is a program that shows you the TCP stream going in and out of a port.
 
 ## On-chain Version
 A proof of concept on-chain version was written first in Solidity. It can be found in the `rwa_poc_sol` directory.
+
+## XMPP Servers
+You should be able to use any public XMPP server, but I haven't tried. Some might have issues with you running bots, dunno.
+
+For a locally hosted XMPP server, I've been using [Openfire](https://igniterealtime.org/projects/openfire/) . 
+Seems to work fine. I've seen there's options to run clusters of these. I'd like to investigate what benefits that brings. If if brings fallover resilience, than each chainlink node could run a openfire node in that cluster bringing more resilience. Still an open question.
+
+## XMPP Clients
+These seem fine:
+. [Dino](https://dino.im/)
+. [Gajim](https://gajim.org/)
