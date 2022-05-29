@@ -43,20 +43,20 @@ https://devpost.com/software/real-world-auditor
 
 ## Admin User Interface
 Once a user starts a chat with the EA bot, and they have been assigned as the admin in an audit via the smartcontract, these commands will be available to them. Any input that is not recognised will result in this list of commands being printed. Some of them are not currently operational.
-### Commands 
 
-`open` : Allows auditors to register
-`close` : Closes registration
-`start` : Start the audit 
-`stop` : Stop the audit 
-`state` : Returns the current state of the audit 
-`add <description>` : Adds an item to the audit 
-`items` : Returns the items in the audit 
-`del <number> :` Deletes item from the audit. <number> is obtained from `item list` 
-`set num_items <value> ` : Sets the number of items that need to be audited 
-`set num_audits_per_item <value> ` : Sets the number audits per item (needs to be an odd number) 
-`outstanding_inspections` : Returns the outstanding audits 
-‎`set slashing_ratio <value>` : Sets the severity of the slash an auditor will receive for every incorrect observation 
+### Commands 
+* `open` : Allows auditors to register
+* `close` : Closes registration
+* `start` : Start the audit 
+* `stop` : Stop the audit 
+* `state` : Returns the current state of the audit 
+* `add <description>` : Adds an item to the audit 
+* `items` : Returns the items in the audit 
+* `del <number> :` Deletes item from the audit. <number> is obtained from `item list` 
+* `set num_items <value> ` : Sets the number of items that need to be audited 
+* `set num_audits_per_item <value> ` : Sets the number audits per item (needs to be an odd number) 
+* `outstanding_inspections` : Returns the outstanding audits 
+* ‎`set slashing_ratio <value>` : Sets the severity of the slash an auditor will receive for every incorrect observation 
 
 
 ## Audit States
