@@ -8,7 +8,6 @@ Once an assessor has registered on chain, all other interaction between the asse
 This is the external adapter/bot that talks to the chainlink node, either receiving instruction to initiate an audit, or sending the settlement details back to be executed.
 
 # 5 Minute overview of what it does
-https://youtu.be/VxIKy8hyWeo
 [![5 Minutes Intro Video](https://img.youtube.com/vi/VxIKy8hyWeo/0.jpg)](https://www.youtube.com/watch?v=VxIKy8hyWeo)
 
 # Contracts
