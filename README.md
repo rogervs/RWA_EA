@@ -5,5 +5,18 @@ Actors are assigned randomly to various criterion, with each criterion having at
 The system rewards actors whose assessment aligns with that of the majority, and penalizes assessments that go against.
 Once an assessor has registered on chain, all other interaction between the assessor and the system is done via XMPP (Instant messaging), using Chain link to bring the results back on chain to automatically execute payment.
 
+This is the external adapter/bot that talks to the chainlink node, either receiving instruction to initiate an audit, or sending the settlement details back to be executed.
+
 # Contracts
 The contracts are here https://github.com/rogervs/RWA_contracts
+
+# Install
+1. Create a python virtual environment using something like `pyenv-virtualenv`
+2. Install dependencies. `pip install -r requirements.txt`
+
+# Run
+`python rwa.py`
+
+# Tips
+TCPFlow is a program that shows you the TCP stream going in and out of a port.
+`sudo tcpflow -c -i lo port 8080`
