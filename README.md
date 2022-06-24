@@ -1,4 +1,5 @@
-# Real Word Auditor
+# Real Word Auditor (POC)
+(Note that this project is a proof of concept. No further updates will be made to this repo as a full rewrite is in progress)
 
 A tool to coordinate and incentivise a set of independent actors to assess a set of independent criteria, using Chain link and XMPP to link block chain payment rails to real world activity.
 Actors are assigned randomly to various criterion, with each criterion having at least three actors assessing it.
