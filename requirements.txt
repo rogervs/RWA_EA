@@ -55,7 +55,7 @@ PyYAML==6.0
 requests==2.27.1
 rlp==2.0.1
 six==1.16.0
-slixmpp==1.8.2
+slixmpp==1.8.3
 sniffio==1.2.0
 starlette==0.18.0
 toolz==0.11.2
