@@ -57,7 +57,7 @@ rlp==2.0.1
 six==1.16.0
 slixmpp==1.8.2
 sniffio==1.2.0
-starlette==0.18.0
+starlette==0.25.0
 toolz==0.11.2
 typing_extensions==4.2.0
 ujson==5.2.0
